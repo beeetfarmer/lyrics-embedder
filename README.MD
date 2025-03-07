@@ -5,7 +5,6 @@ A simple Python tool that embeds lyrics from .lrc files into your music files. T
 ## Features
 
 - Supports multiple audio formats: MP3, FLAC, M4A, and OGG
-- Preserves timestamps in .lrc files
 - Works recursively through folders and subfolders
 - Simple command-line interface
 - Visual feedback with emoji indicators
